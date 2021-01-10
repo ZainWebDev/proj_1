@@ -3,9 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>first Comit</title>
+	<title>Second Comit</title>
 </head>
 <body>
-	<p>first comit</p>
+	<p>Second Comit</p>
 </body>
 </html>
